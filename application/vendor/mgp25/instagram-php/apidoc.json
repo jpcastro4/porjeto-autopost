@@ -1,0 +1,7 @@
+{
+	"name": "API",
+	"version": "1.0.0",
+	"description": "API",
+	"title": "Instapost API",
+	"url" : "C:wamp/www/instapost/application/vendor/mgp25/instagram-php"
+}
